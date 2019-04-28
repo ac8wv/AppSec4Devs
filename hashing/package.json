@@ -1,0 +1,9 @@
+{
+    "name": "hashing",
+    "version": "1.0.0",
+    "description": "hashing example w/bcrypt",
+    "main": "hashing.js",
+    "scripts": {
+      "start": "node hashing.js"
+    }
+  }
