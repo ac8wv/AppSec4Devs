@@ -1,0 +1,13 @@
+{
+  "name": "helmet",
+  "version": "1.0.0",
+  "description": "Code sample for a simple HTTPS expressjs server w/helmet",
+  "main": "helmet.js",
+  "scripts": {
+    "start": "node helmet.js"
+  },
+  "engines": {
+    "node": "11.14.0",
+    "npm": "6.9.0"
+  }
+}
