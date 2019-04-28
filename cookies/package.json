@@ -1,0 +1,14 @@
+{
+    "name": "cookies",
+    "version": "1.0.0",
+    "description": "Code sample for a simple HTTPS expressjs server w/cookies",
+    "main": "cookies.js",
+    "scripts": {
+      "start": "node cookies.js"
+    },
+    "engines": {
+      "node": "11.14.0",
+      "npm": "6.9.0"
+    }
+  }
+  
