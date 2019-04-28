@@ -4,8 +4,8 @@ var fs = require('fs');
 var app = express();
 
 var options = {
-    key: fs.readFileSync('aditiprivatekey.pem'),
-    cert: fs.readFileSync('cert.pem')
+    key: fs.readFileSync('../aditiprivatekey.pem'),
+    cert: fs.readFileSync('../cert.pem')
 }
 
 https.createServer(options, app).listen(8000, function(err){
