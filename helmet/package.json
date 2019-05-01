@@ -9,5 +9,9 @@
   "engines": {
     "node": "11.14.0",
     "npm": "6.9.0"
+  },
+  "dependencies": {
+    "express": "4.16.4",
+    "helmet": "3.16.0"
   }
 }
