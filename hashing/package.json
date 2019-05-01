@@ -5,5 +5,8 @@
     "main": "hashing.js",
     "scripts": {
       "start": "node hashing.js"
-    }
+    },
+    "dependencies": {
+      "bcrypt": "3.0.6"
   }
+}
